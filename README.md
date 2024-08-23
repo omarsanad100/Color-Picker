@@ -1,4 +1,4 @@
-# Color Picker React Component
+# Color Picker
 
 This project is a simple React-based color picker application created with Vite. It allows users to select a color using an HTML color input and displays the selected color in real-time.
 
